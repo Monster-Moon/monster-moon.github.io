@@ -10,7 +10,7 @@ header_pages:
  - index.md
  - about.md
 
-footer: 'follow me on <a href="https://github.com/Monster-Moon/">Github</a>'
+footer: 'Email me on <a href=mailto:msj5589@gmail.com>here</a>, or follow me on <a href="https://github.com/Monster-Moon/">Github</a>'
 
 # style: light # dark (default) or light
 # listen_for_clients_preferred_style: true # true or false (default)
