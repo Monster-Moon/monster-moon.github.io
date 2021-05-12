@@ -1,7 +1,7 @@
 ---
-title: about
+title: /about
 layout: page
 permalink: /about
 ---
 
-about
+e-mail: msj5589@gmail.com
