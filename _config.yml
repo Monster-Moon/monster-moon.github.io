@@ -2,14 +2,18 @@
 
 #google_analytics: UA-NNNNNNNN-N
 
+title: 'Moon's page'
+baseurl: "/"
+url: "https://monster-moon.github.io"
+
 header_pages:
  - index.md
  - about.md
 
 #footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
 
-#style: light # dark (default) or light
-listen_for_clients_preferred_style: true # true or false (default)
+# style: light # dark (default) or light
+# listen_for_clients_preferred_style: true # true or false (default)
 
 plugins:
   - jekyll-seo-tag
