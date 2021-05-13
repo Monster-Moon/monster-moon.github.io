@@ -5,5 +5,5 @@ permalink: /
 ---
 
 
-Posts
+Intuitive Idea note:
 
