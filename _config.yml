@@ -5,7 +5,7 @@
 title: "Moon's page"
 baseurl: "/"
 url: "https://monster-moon.github.io" 
-description: "My brief ideas and experiences"
+description: "My ideas and experiences"
 
 header_pages:
  - index.md
