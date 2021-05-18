@@ -9,8 +9,7 @@ description: "My ideas and experiences"
 
 header_pages:
  - index.md
- - papers.md
- - projects.md
+ - posts.md
 
 footer: 'Email me to <a href=mailto:msj5589@gmail.com>Here</a>, or follow me on <a href="https://github.com/Monster-Moon/">Github</a>'
 
