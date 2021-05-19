@@ -25,8 +25,8 @@ Experience
 
 \
 Education
-- 2018.02 ~ 2021.08 : University of Seoul, South Korea (Ph.D. in Statistics)
-- 2016.02 ~ 2018.02 : University of Seoul, South Korea (M.S. in Statistics)
+- 2018.03 ~ 2021.08 : University of Seoul, South Korea (Ph.D. in Statistics)
+- 2016.03 ~ 2018.02 : University of Seoul, South Korea (M.S. in Statistics)
 - 2010.03 ~ 2016.02 : University of Seoul, South Korea (B.S. in Mathmatics)
 
 \
