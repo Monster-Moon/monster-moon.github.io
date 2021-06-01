@@ -13,6 +13,7 @@ permalink: /
 \
 Research Interests
 - Convex optimization (first-order methods)
+- Ranking probability model
 - Neural networks & Machine Learning
 
 \
