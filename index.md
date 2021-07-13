@@ -9,7 +9,6 @@ permalink: /
 최신의 트렌드를 파악하고 기존의 통계 모델링에 적용, 융합하는 접근 방법을 지향합니다.\
 특히, 새로운 최적화 방법을 제안하고 방법의 유용성을 파악하는데 관심이 많습니다.
 
-
 \
 Research Interests
 - Convex optimization (first-order methods)
@@ -24,9 +23,11 @@ JUVIS, 참여연구원
 - 2020.02 ~ 2020.04 : 쥬비스 데이터 마이닝 고도화 프로젝트 <a href='http://juviscorp.co.kr/lab/intro.php'>[link]</a>
 - 2018.01 ~ 2018.06 : 쥬비스 AI 컨설팅을 위한 감량 데이터마이닝 연구 <a href='http://juviscorp.co.kr/lab/intro.php'>[link]</a>
 
+\
 Neighbor System, 참여연구원
 - 2019.01 ~ 2019.06 : C-ITS 분석을 통한 차량 운전 습관 분석 
 
+\
 안보경영연구원, 참여연구원
 - 2017.04 ~ 2017.11 : 미래기술 조사방법론 연구 및 국방활용가능 민간보유기술 조사 <a href='proof/미래기술조사.pdf'>[source]</a>
 
