@@ -22,10 +22,12 @@ JUVIS, 참여연구원
 - 2020.11 ~ 2021.03 : JUVIS 고객 맞춤 행동 추천 연구<a href='http://juviscorp.co.kr/lab/intro.php'>[link]</a> <a href='proof/JUVIS_고객맞춤행동.pdf'>[source]</a>
 - 2020.02 ~ 2020.04 : 쥬비스 데이터 마이닝 고도화 프로젝트 <a href='http://juviscorp.co.kr/lab/intro.php'>[link]</a>
 - 2018.01 ~ 2018.06 : 쥬비스 AI 컨설팅을 위한 감량 데이터마이닝 연구 <a href='http://juviscorp.co.kr/lab/intro.php'>[link]</a>
-\
+
+
 Neighbor System, 참여연구원
 - 2019.01 ~ 2019.06 : C-ITS 분석을 통한 차량 운전 습관 분석 
-\
+
+
 안보경영연구원, 참여연구원
 - 2017.04 ~ 2017.11 : 미래기술 조사방법론 연구 및 국방활용가능 민간보유기술 조사 <a href='proof/미래기술조사.pdf'>[source]</a>
 
