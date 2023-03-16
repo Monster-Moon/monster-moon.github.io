@@ -1,4 +1,4 @@
----
+<!-- ---
 title: /home
 layout: home
 permalink: /
@@ -47,4 +47,4 @@ Publications
 Awards and Honors
 - 한국통계학회 대학원생 발표논문상, 1등, 2019 <a href='proof/2019추계_발표자료.pdf'>[source]</a>
 - 통계청 논문공모전, 장려상, 2018 <a href='proof/미세먼지 네트워크를 활용한 공기정화탑 위치 선정_논문.pdf' >[source]</a>
-- 문화관광 빅데이터 분석대회, 3등, 2017 <a href='proof/관광빅데이터_발표자료.pdf'>[source]</a>
+- 문화관광 빅데이터 분석대회, 3등, 2017 <a href='proof/관광빅데이터_발표자료.pdf'>[source]</a> -->
